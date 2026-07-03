@@ -18,9 +18,9 @@ This project presents a strategic business analysis of Reliance Industries Limit
 
 # Dashboard Features
 
-- 📈 Revenue Trend Analysis (FY21–FY25)
-- 🥧 Business Contribution Pie Chart
-- 📊 KPI Cards
+- Revenue Trend Analysis (FY21–FY25)
+- Business Contribution Pie Chart
+-  KPI Cards
   - Revenue
   - Market Capitalization
   - Employees
@@ -51,27 +51,6 @@ The PowerPoint presentation includes:
 - Microsoft Excel
 - Microsoft PowerPoint
 
-
-
-# Project Structure
-
-
-Strategic-Growth-Assessment-RIL/
-│
-├── Excel-Dashboard/
-│   └── Reliance_Industries_Strategic_Dashboard.xlsx
-│
-├── Presentation/
-│   └── RIL_Strategic_Growth_Assessment.pptx
-│
-├── Visuals/
-│   └── dashboard.png
-│
-└── README.md
-
-
-
-
 # Dashboard Preview
 
 ![Dashboard](visuals/dashboard.png)
@@ -96,4 +75,4 @@ Strategic-Growth-Assessment-RIL/
 
 # Author
 
-Created as an academic portfolio project to demonstrate business analysis, data visualization, and dashboard development skills using Microsoft Excel.
+Chawan Gangothri
